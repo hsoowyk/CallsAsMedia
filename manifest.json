@@ -1,0 +1,12 @@
+{
+  "name": "CallsAsMedia",
+  "description": "Faz as chamadas do Discord serem tratadas como notificações de mídia/mensagem, sem ringtone nem tela cheia de ligação.",
+  "authors": [
+    {
+      "name": "você",
+      "id": "000000000000000000"
+    }
+  ],
+  "main": "index.js",
+  "hash": ""
+}
